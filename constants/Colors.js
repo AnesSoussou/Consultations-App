@@ -1,0 +1,18 @@
+export default Colors = {
+    primary: '#28367A',
+    secondary: '#E4261B',
+    success: '#52A500',
+    azure: '#00ffe5',
+    border: '#CCCCCC',
+    text: '#515151',
+    grey: '#8E8E93',
+    greyB5B5B5: '#B5B5B5',
+    lightGrey: '#8E8Eff',
+    green: '#28777A',
+    black: '#131313',
+    greyEBEBEB: '#EBEBEB',
+    background: '#F8F8F8',
+    yellow: '#FFBB00',
+    gold: '#e6b02f',
+    overlay: '#28367A96',
+  };
